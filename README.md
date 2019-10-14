@@ -1,3 +1,5 @@
+Api para ser consumido por una app de reserva de horas. Hecho en Node JS, con framework Express, haciendo uso de Sequelize como herramienta ORM para manipulación de base de dato en PostgreSQL.
+
 # Version NodeJs
 
 Este proyecto fue hecho con la versión 8.16.0 de Nodejs.
