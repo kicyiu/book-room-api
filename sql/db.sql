@@ -9,10 +9,10 @@ CREATE TABLE IF NOT EXISTS meetings (
 
 
 INSERT INTO meetings(title, meeting_date, init_time, end_time, description)
-    VALUES('Job interview', '2019-10-30', '10:00', '11:00', 'Software developer job offer');
+    VALUES('Job interview', '2019-10-16', '10:00', '11:00', 'Software developer job offer');
 
 INSERT INTO meetings(title, meeting_date, init_time, end_time, description)
-    VALUES('Team meeting', '2019-11-01', '14:30', '16:00', 'Talk about currect projects status');
+    VALUES('Team meeting', '2019-10-21', '14:30', '16:00', 'Talk about currect projects status');
 
 INSERT INTO meetings(title, meeting_date, init_time, end_time, description)
-    VALUES('Clients meeting', '2019-11-10', '12:30', '14:00', 'Meeting with clients');
+    VALUES('Clients meeting', '2019-10-25', '12:30', '14:00', 'Meeting with clients');
